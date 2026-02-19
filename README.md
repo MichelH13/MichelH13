@@ -9,17 +9,17 @@
 ## 👨‍💻 Sobre
 
 ```bash
-michel@github:~$ whoami
+https://github.com/MichelH13
 Michel Henrique
 
-michel@github:~$ echo $ROLE
-Software Engineering Student
+Cursando
+Faculdade de Enegenharia de Software
 
-michel@github:~$ echo $FOCUS
-Backend | Full Stack | Sistemas
+## 🛠 Tecnologias
+Backend | Full Stack | Sistemas 
 
-michel@github:~$ uptime
-Always learning 🚀
+michel@github:~$ status
+Aprendizado contínuo | Evolução constante 🚀
 ```
 
 ---
