@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Michel Henrique</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=750&lines=Olá,+me+chamo+Michel+Henrique;Estudante+de+Engenharia+de+Software;Desenvolvedor+em+formação;Bem-vindo+ao+meu+sistema..." />
+  <img src="https://raw.githubusercontent.com/MichelH13/MichelH13/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
