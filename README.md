@@ -69,3 +69,7 @@ GitHub: github.com/MichelH13
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=120&section=footer"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MichelH13/MichelH13/output/github-contribution-grid-snake.svg" />
+</p>
