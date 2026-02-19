@@ -1,4 +1,4 @@
-<h1 align="center">  🌐 Michel Henrique</h1>
+<h1 align="center">🌐 Michel Henrique</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=750&lines=Olá,+me+chamo+Michel+Henrique;Estudante+de+Engenharia+de+Software;Desenvolvedor+em+formação;Bem-vindo+ao+meu+sistema..." />
@@ -27,14 +27,12 @@ Focus: Desenvolvimento Full Stack
 ## 🟢 $ ls principais_linguagens/
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
 </p>
 
 ---
@@ -42,8 +40,8 @@ Focus: Desenvolvimento Full Stack
 ## 🟢 $ git stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MichelH13&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelH13&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MichelH13&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelH13&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -52,8 +50,8 @@ Focus: Desenvolvimento Full Stack
 
 ```bash
 Email: mh_13@outlook.com.br
-LinkedIn: linkedin.com/in/michelh13
-GitHub: github.com/MichelH13
+LinkedIn: https://linkedin.com/in/michelh13
+GitHub: https://github.com/MichelH13
 ```
 
 ---
@@ -68,8 +66,4 @@ GitHub: github.com/MichelH13
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MichelH13/MichelH13/output/github-contribution-grid-snake.svg" />
 </p>
