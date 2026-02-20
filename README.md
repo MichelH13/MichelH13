@@ -1,6 +1,10 @@
 <h1 align="center">Michel Henrique</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MichelH13&color=00ff00&style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/MichelH13/MichelH13/output/github-contribution-grid-snake-dark.svg" />
 </p>
 ---
