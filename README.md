@@ -1,13 +1,8 @@
 <h1 align="center">Michel Henrique</h1>
 
-## 👨‍💻 Sobre
-
-Olá, me chamo **Michel Henrique**.
-
-Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente graduando em **Engenharia de Software**. Possuo interesse em desenvolvimento de sistemas, arquitetura de software e soluções backend.
-
-Busco constantemente aprimorar minhas habilidades técnicas, desenvolver projetos práticos e evoluir profissionalmente na área de tecnologia.
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Formado+em+ADS;Graduando+em+Engenharia+de+Software;Foco+em+Backend+e+Desenvolvimento+de+Sistemas;Aprendizado+contínuo+🚀" />
+</p>
 
 
 <p align="center">
